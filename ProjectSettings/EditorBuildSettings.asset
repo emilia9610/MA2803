@@ -11,6 +11,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Study.unity
     guid: 1606fd97dcb53874c99971f81e0d738e
+  - enabled: 1
+    path: Assets/Scenes/Library.unity
+    guid: 3522cb68965c440158d0ae0e68fe9842
+  - enabled: 1
+    path: Assets/Scenes/Bedroom.unity
+    guid: 1f9571aa9c50f4639ac50cd5f8de9133
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
